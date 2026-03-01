@@ -17,9 +17,9 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/photo_2025-06-27_14-48-38.jpg" width="200"/>
-  <img src="assets/photo_2025-06-27_14-48-40.jpg" width="200"/>
-  <img src="assets/photo_2025-06-27_14-48-41.jpg" width="200"/>
+  <img src="SourceCode/assets/photo_2025-06-27_14-48-38.jpg" width="200"/>
+  <img src="SourceCode/assets/photo_2025-06-27_14-48-40.jpg" width="200"/>
+  <img src="SourceCode/assets/photo_2025-06-27_14-48-41.jpg" width="200"/>
 </p>
 
 *Want the full app preview? Visit [risepvt.netlify.app](https://risepvt.netlify.app)*
