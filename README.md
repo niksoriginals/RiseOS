@@ -1,38 +1,40 @@
-# RISEPVT
+# 🚀 Niso Chat
+**The Ultimate Fusion of Secure Messaging & Personalized Music.**
 
-**RISEPVT** is a sleek, minimal mobile-first Android application that combines secure messaging and personalized music features in a single platform. Built with clean UI design and smooth user experience in mind, RISEPVT is a personal project by [Nikhil Yadav](https://niksoriginals.netlify.app) to explore full-stack app development with a creative edge.
+**Niso Chat** ek sleek, minimal aur mobile-first platform hai jo secure communication aur personalized music experience ko ek hi elegant interface mein integrate karta hai. Ise [Nikhil Yadav](https://niksoriginals.netlify.app) ne develop kiya hai as a personal project, jahan focus **Privacy**, **Modern UI**, aur **Seamless Performance** par rakha gaya hai.
+
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- 🔒 Secure login via **Phone** or **Google**
-- 💬 Real-time chat UI with profile support
-- 🎵 Music tab with audio integration (Spotify-inspired)
-- 👤 Editable user profiles with image and info
-- 🎨 Smooth, modern UI with blurred backgrounds and gradients
-- 📱 Responsive design for mobile and tablet users
+* **🔒 Secure Authentication**: Phone Number aur Google Sign-in ke zariye fast aur secure access.
+* **💬 Real-time Chat Engine**: Ek clean, low-latency messaging interface jo profile integration ko support karta hai.
+* **🎵 Personal Music Tab**: Spotify-inspired music player jisme background play aur immersive audio integration hai.
+* **👤 Dynamic Profiles**: Users apni image, bio aur information ko real-time mein edit aur customize kar sakte hain.
+* **🎨 Premium Glassmorphism**: App mein blurred backgrounds, custom gradients aur fluid animations ka use kiya gaya hai.
+* **📱 Fully Responsive**: Har screen size (Mobile to Tablet) ke liye optimized design.
 
 ---
 
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="SourceCode/assets/photo_2025-06-27_14-48-38.jpg" width="200"/>
-  <img src="SourceCode/assets/photo_2025-06-27_14-48-40.jpg" width="200"/>
-  <img src="SourceCode/assets/photo_2025-06-27_14-48-41.jpg" width="200"/>
+  <img src="SourceCode/assets/photo_2025-06-27_14-48-38.jpg" width="200" style="border-radius: 12px;"/>
+  <img src="SourceCode/assets/photo_2025-06-27_14-48-40.jpg" width="200" style="border-radius: 12px;"/>
+  <img src="SourceCode/assets/photo_2025-06-27_14-48-41.jpg" width="200" style="border-radius: 12px;"/>
 </p>
 
-*Want the full app preview? Visit [risepvt.netlify.app](https://risepvt.netlify.app)*
+> **Live Preview**: Visit [risepvt.netlify.app](https://niso.niksoriginals.in)
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Frontend**: HTML, CSS (Tailwind), JavaScript
-- **Backend/Services**: Firebase Auth, Firestore (optional)
-- **Hosting**: Netlify
-- **Design**: Figma + Custom GIFs + Boxicons
+| Layer | Technology |
+| :--- | :--- |
+| **Frontend** | **Dart (Language)** |
+| **Backend** | Firebase Authentication & Firestore |
+| **Hosting** | Netlify |
+| **Design** | Custom Assets |
 
 ---
-
-
